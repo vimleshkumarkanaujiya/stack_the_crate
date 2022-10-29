@@ -1,2 +1,2 @@
 # Stack the Crate
-Stack the Crate : A JavaScript game based phaser.js
+A JavaScript game based on phaser.js
